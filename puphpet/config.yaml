@@ -181,6 +181,7 @@ php:
             - gd
             - mbstring
             - mysql
+            - curl
         pear: {  }
         pecl:
             - pecl_http
