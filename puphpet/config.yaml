@@ -18,6 +18,7 @@ vagrantfile-local:
             virtualbox:
                 modifyvm:
                     natdnshostresolver1: on
+                    name: 'Symfony VM'
             vmware:
                 numvcpus: 1
             parallels:
